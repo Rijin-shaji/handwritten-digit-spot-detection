@@ -18,7 +18,7 @@ Users draw digits on a canvas and receive real-time predictions with confidence.
 - Pillow
 - Tkinter
 
-## Project Structure
+# Project Structure
 See repository tree for modular design.
 
 ## How to Run
