@@ -11,7 +11,7 @@ Users draw digits on a canvas and receive real-time predictions with confidence.
 - CNN-based digit classification
 - Confidence score display
 
-## Tech Stack
+# Tech Stack
 - Python
 - TensorFlow / Keras
 - NumPy
