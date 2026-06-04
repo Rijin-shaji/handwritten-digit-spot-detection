@@ -21,7 +21,7 @@ Users draw digits on a canvas and receive real-time predictions with confidence.
 # Project Structure
 See repository tree for modular design.
 
-## How to Run
+# How to Run
 ```bash
 pip install -r requirements.txt
 cd src
