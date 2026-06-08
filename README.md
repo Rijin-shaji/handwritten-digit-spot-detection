@@ -1,4 +1,4 @@
-# handwritten-digit-spot-detection
+## handwritten-digit-spot-detection
 A Python-based handwritten digit recognition application using a CNN model, featuring a Tkinter GUI that allows users to draw digits and receive real-time predictions with confidence after automated image preprocessing.
 # Handwritten Digit Spot Detection 
 
